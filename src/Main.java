@@ -73,13 +73,18 @@ public class Main {
             if (!scanner.hasNextLine()) {
                 break;
             }
-            String opcao = scanner.nextLine().trim();
+            String opcao = scanner.nextLine().replace("\uFEFF", "").trim();
 
             switch (opcao) {
                 case "1":
-                    Assinante assinante = telaIdentificacao.realizarIdentificacao();
-                    Assinatura assinatura = telaContratacao.realizarContratacao(assinante);
-                    telaPagamento.realizarPagamento(assinatura);
+                    try {
+                        Assinante assinante = telaIdentificacao.realizarIdentificacao();
+                        Assinatura assinatura = telaContratacao.realizarContratacao(assinante);
+                        telaPagamento.realizarPagamento(assinatura);
+                    } catch (java.util.NoSuchElementException e) {
+                        System.out.println("\nEntrada encerrada. Os dados já registrados foram salvos em dados/.");
+                        return;
+                    }
                     break;
                 case "2":
                     executarDemonstracaoCompleta(controller);

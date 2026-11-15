@@ -1,2 +1,2 @@
-idSessao;celularAssinante;plano;valorContratado;statusAssinatura;statusPedido;endereco;previsaoPrimeiraEntrega;protocolo;tentativasPagamento
-1;11991234567;Plano Semanal;149,90;ATIVA;APROVADO;Rua da Consolação, 930 (Bloco G) - Consolação, São Paulo/SP - CEP: 01302-907;2026-11-17;MR-20261115-025931-4361;2
+idAssinatura;celularAssinante;plano;valorContratado;statusAssinatura;statusPedido;endereco;previsaoPrimeiraEntrega;protocolo;tentativasPagamento
+A20261115032644-1;11991234567;Plano Semanal;149,90;ATIVA;APROVADO;Rua da Consolação, 930 (Bloco G) - Consolação, São Paulo/SP - CEP: 01302-907;2026-11-17;MR-20261115-032644-1070;2

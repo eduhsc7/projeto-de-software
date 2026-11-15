@@ -1,0 +1,24 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Executar Minha Refeição (Main)",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "ProjetoSoftware",
+            "console": "integratedTerminal",
+            "encoding": "UTF-8"
+        },
+        {
+            "type": "java",
+            "name": "Executar Demonstração Automática (--demo)",
+            "request": "launch",
+            "mainClass": "Main",
+            "args": "--demo",
+            "projectName": "ProjetoSoftware",
+            "console": "integratedTerminal",
+            "encoding": "UTF-8"
+        }
+    ]
+}

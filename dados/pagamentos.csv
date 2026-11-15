@@ -1,0 +1,3 @@
+idAssinatura;tentativaNumero;celularAssinante;valor;operadora;situacao;dataHoraSolicitacao;dataHoraConfirmacao
+1;1;11991234567;149,90;Operadora CrediPay S.A.;RECUSADO;2026-11-15T02:59:31.832231900;
+1;2;11991234567;149,90;Operadora CrediPay S.A.;AUTORIZADO;2026-11-15T02:59:31.834745500;2026-11-15T02:59:31.834745500

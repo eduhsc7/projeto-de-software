@@ -1,0 +1,16 @@
+idCardapio;inicioVigencia;fimVigencia;nomeOpcao;categoria;preferenciasAtendidas
+1;2026-11-08;2026-12-15;Filé de Frango Grelhado com Ervas Finas;PRATO_PRINCIPAL;Tradicional,Sem lactose
+1;2026-11-08;2026-12-15;Escondidinho de Carne Seca com Mandioquinha;PRATO_PRINCIPAL;Tradicional
+1;2026-11-08;2026-12-15;Salmão Assado ao Molho de Maracujá;PRATO_PRINCIPAL;Tradicional,Sem lactose
+1;2026-11-08;2026-12-15;Lasanha de Berinjela Gratinada ao Sugo;PRATO_PRINCIPAL;Tradicional,Vegetariana
+1;2026-11-08;2026-12-15;Moqueca de Banana-da-Terra com Castanhas;PRATO_PRINCIPAL;Tradicional,Vegetariana,Sem lactose
+1;2026-11-08;2026-12-15;Bowl Proteico de Quinoa e Tofu Grelhado;PRATO_PRINCIPAL;Tradicional,Vegetariana,Sem lactose
+1;2026-11-08;2026-12-15;Arroz Integral com Brócolis;ACOMPANHAMENTO;Tradicional,Vegetariana,Sem lactose
+1;2026-11-08;2026-12-15;Mix de Legumes Assados no Azeite;ACOMPANHAMENTO;Tradicional,Vegetariana,Sem lactose
+1;2026-11-08;2026-12-15;Purê de Batata-Doce Cremoso;ACOMPANHAMENTO;Tradicional,Vegetariana
+1;2026-11-08;2026-12-15;Feijão Preto Caseiro Temperado;ACOMPANHAMENTO;Tradicional,Vegetariana,Sem lactose
+1;2026-11-08;2026-12-15;Salada de Frutas Frescas da Estação;SOBREMESA;Tradicional,Vegetariana,Sem lactose
+1;2026-11-08;2026-12-15;Mousse de Cacau 70% Zero Lactose;SOBREMESA;Tradicional,Vegetariana,Sem lactose
+1;2026-11-08;2026-12-15;Pudim de Chia com Calda de Manga;SOBREMESA;Tradicional,Vegetariana,Sem lactose
+1;2026-11-08;2026-12-15;Cheesecake Tradicional de Frutas Vermelhas;SOBREMESA;Tradicional,Vegetariana
+2;2026-09-16;2026-10-15;Risoto Sazonal de Inverno (Fora de Vigência);PRATO_PRINCIPAL;Tradicional,Vegetariana,Sem lactose

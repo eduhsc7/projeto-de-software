@@ -1,0 +1,33 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compilar e Executar Minha Refeicao (Terminal)",
+            "type": "shell",
+            "command": "[Console]::OutputEncoding = [System.Text.Encoding]::UTF8; New-Item -ItemType Directory -Force -Path bin | Out-Null; javac -encoding UTF-8 -d bin (Get-ChildItem -Recurse src/*.java).FullName; java -cp bin Main",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Executar Demonstracao Guiada (Principal + FA1, FA2, FA3)",
+            "type": "shell",
+            "command": "[Console]::OutputEncoding = [System.Text.Encoding]::UTF8; New-Item -ItemType Directory -Force -Path bin | Out-Null; javac -encoding UTF-8 -d bin (Get-ChildItem -Recurse src/*.java).FullName; java -cp bin Main --demo",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        }
+    ]
+}

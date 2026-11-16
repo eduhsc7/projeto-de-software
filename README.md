@@ -14,8 +14,10 @@ Projeto desenvolvido para a disciplina de **Projeto de Software** — Tradução
 
 ---
 
-## 🔗 Links da Documentação e Modelos na Wiki do GitHub
+## 🔗 Links da Documentação, Modelos na Wiki e Vídeo Explicativo
 
+- 🎬 **[Vídeo Explicativo da Implementação em Java e Demonstração (YouTube)](https://youtu.be/xIyOvPayKi8)**
+- ☕ **[Implementação em Java na Wiki (Entrega 4)](https://github.com/eduhsc7/projeto-de-software/wiki/Implementacao-em-Java)**
 - 🏠 **[Página Inicial da Wiki](https://github.com/eduhsc7/projeto-de-software/wiki)**
 - 📱 **[Protótipo — Storyboard e Diagrama de Telas (15 Telas)](https://github.com/eduhsc7/projeto-de-software/wiki/Prot%C3%B3tipo-%E2%80%90-Diagrama-de-Telas)**
 - 📋 **[Lista de Classes Candidatas](https://github.com/eduhsc7/projeto-de-software/wiki/Lista-de-Classes-Candidatas)**
